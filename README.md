@@ -65,7 +65,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/jsm_gta_vi_landing.git
+git clone https://github.com/AnshikaGoswami27/jsm_gta_vi_landing.git
 cd jsm_gta_vi_landing
 ```
 
@@ -84,6 +84,7 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
 
 
 
